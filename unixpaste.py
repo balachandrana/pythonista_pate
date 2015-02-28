@@ -8,6 +8,7 @@ Examples:
 todo:
   __doc__
   test examples
+  test git
 """
 
 import argparse
